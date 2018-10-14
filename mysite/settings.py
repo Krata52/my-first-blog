@@ -25,7 +25,7 @@ SECRET_KEY = '_lnv*4$j@e4dcsxz2tzn5@@@2luo)*l7j9m4cgw@z3(jf6gq$8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['krata52.pythonanywhere.com']
 
 
 # Application definition
